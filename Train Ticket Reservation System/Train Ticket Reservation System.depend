@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1513947751 source:e:\dream coder\train ticket reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1513947751 source:j:\dream coder\train ticket reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1513947751 source:k:\level 1, term 2\dream coder\train ticket reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
